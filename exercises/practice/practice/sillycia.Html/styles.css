@@ -1,0 +1,23 @@
+h1 {
+    color: green;
+}
+
+.font-style {
+    font-style: Georgia;
+}
+
+.center {
+    text-align: center;
+}
+
+.line-height{
+    line-height: 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}

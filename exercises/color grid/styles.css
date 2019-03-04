@@ -1,0 +1,17 @@
+.pinkbox {
+  background-color: #F5C6D6;
+  height: 100px;
+}
+ .darkpinkbox{
+     background-color: #EE2E84;
+     height: 50px;
+     width: 250px
+     
+ }
+ /*.darkpinkbox{
+   display: inline; width: 250px ,height 125px;
+  background-color: #EE2E84; width: 250px,
+  
+  
+  
+ }
